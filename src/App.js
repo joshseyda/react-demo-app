@@ -10,7 +10,8 @@ class App extends Component {
             className = "App-logo"
             alt = "logo" />
             <h1 className = "App-title" > React App v.0.0.1 </h1> </header > <p className = "App-intro" >
-            Soon to come more FN details. </p > </div> 
+            Soon to come more FN details. </p > 
+            <p>Maybe a redbull swag shop? or symphony on the potomac? maybe a place to make smart contracts with youor friends for making bets?</p></div> 
         );
     }
 }
